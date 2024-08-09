@@ -1,0 +1,21 @@
+div{
+    position: absolute;
+}
+.blue{
+    width: 400px;
+    height: 200px;
+    background-color: purple;
+    z-index: 1;
+}
+.red{
+    width: 300px;
+    height: 500px;
+    background-color: red;
+    z-index: 4;
+}
+.yellow{
+    width: 350px;
+    height: 450px;
+    background-color: yellowgreen;
+    z-index: 6;
+}

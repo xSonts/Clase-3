@@ -1,0 +1,16 @@
+html{
+    font-size: 62.5%;
+}
+.experiencias{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-size: 3rem;
+
+}
+
+.web{
+    width:100vw;
+    height: 150px;
+    background-color: aliceblue;
+}
