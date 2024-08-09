@@ -20,3 +20,10 @@ nav{
     position: absolute;
     z-index: 9;
 }
+
+
+@media (max-width: 560px){
+    .container{
+        background-color: rgb(19, 165, 0);
+    }
+}
