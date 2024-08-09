@@ -1,0 +1,15 @@
+.uaoclass{
+    background-color: blueviolet;
+    color: bisque;
+}
+#idea{
+    color: brown;
+
+}
+#subtitulo{
+    color: rgb(60, 204, 185);
+}
+a[href="https://uao.edu.co"]{
+    color: bisque;
+
+}

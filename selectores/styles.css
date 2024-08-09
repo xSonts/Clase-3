@@ -1,0 +1,18 @@
+P::before{
+    content: "holi   ";
+    margin-left:10px ;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+::placeholder{
+    color: violet;
+}
+p:hover{
+    color: brown;
+}
+div p:nth-child(2){
+    color: rgb(4, 105, 100);
+}
